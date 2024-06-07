@@ -29,7 +29,7 @@
 
 Clone the repository:
 bash
-git clone https://github.com/your-username/1-9-Digit-Prediction-From-Text-CNN.git cd 1-9-Digit-Prediction-From-Text-CNN
+git clone https://github.com/SadquaNawab/1-9-Digit-Prediction-From-Text-CNN.git cd 1-9-Digit-Prediction-From-Text-CNN
 
 
 
